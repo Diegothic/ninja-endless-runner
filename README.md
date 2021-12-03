@@ -1,2 +1,4 @@
 # ninja-endless-runner
-Endless runner type game named "Jasbikos" developed with THREE.js
+Endless runner type 3D game named "Jasbikos" written in JavaScript using THREE.js.
+
+![img](./res/jasbikos.png)
