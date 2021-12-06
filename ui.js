@@ -111,7 +111,7 @@ export class UI {
         } else {
             this.scene.add(this.sprites.get('game_over'));
             this.clearScore();
-            this.displayScore([0, window.innerHeight / 2 - 630]);
+            this.displayScore([0, 0]);
         }
         this.disableInGameHud();
     }
